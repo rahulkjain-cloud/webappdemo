@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'rkjwebapp'
         slot-name: 'dev'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3e1ce7870c5a41989afa9229e2ba3297 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_b7d7dfdf2e53464783f40a449f15b3d2 }}
         package: .
